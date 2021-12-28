@@ -1,0 +1,5 @@
+name: Boss
+version: '${project.version}'
+main: cz.danix25.boss.Boss
+api-version: 1.16
+authors: [ Danix25 ]
